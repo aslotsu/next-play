@@ -6,8 +6,8 @@ const gallery = () => {
     <div>
         <Image
             src={gaga}
-            width={500}
-            height={500}
+            width={510}
+            height={510}
             alt="rubi rose in pant"
             placeholder="blur"
 
