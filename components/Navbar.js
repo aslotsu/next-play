@@ -6,7 +6,7 @@ const Navbar = () => {
         <NavBar>
             <div className="wrapper">
                 <HamburgerMenu/>
-                <h1>Stella's Exclusive Designs</h1>
+                <h1>Stella&'s Exclusive Designs</h1>
             </div>
         </NavBar>
     </>
